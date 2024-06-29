@@ -20,13 +20,13 @@ body {
 }
 
 .page-header img {
-    width: 80px;
+    width: 15vh;
     margin-right: 5vh;
 }
 
 .glyphicon {
     position: relative;
-    left: 160vh;
+    left: 120vh;
     color: #3f0202;
 }
 
